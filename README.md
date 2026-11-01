@@ -7,7 +7,7 @@
 ---
 <img src="koi/koi.gif" width="256" alt="My koi" />
 <!-- SECTION 2: ABOUT ME -->
-##  About Me
+## About Me
 
 * 🚀 **What I Do:** I build software solutions focusing on  Web Development, Machine Learning.
 * 🌱 **Currently Learning:** Deepening my knowledge in  React, Data Structures and FastAPI.
