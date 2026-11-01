@@ -4,7 +4,9 @@
 > A passionate Pre-Final Student building scalable applications and exploring new technologies.
 > Love to Explore New Tech ![Tech Explorer](https://img.shields.io/badge/Mindset-Exploring%20New%20Tech-blueviolet?style=for-the-badge&logo=rocket)
 ---
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
 <!-- SECTION 2: ABOUT ME -->
 ---
