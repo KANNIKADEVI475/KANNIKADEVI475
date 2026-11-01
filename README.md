@@ -5,8 +5,9 @@
 > Love to Explore New Tech ![Tech Explorer](https://img.shields.io/badge/Mindset-Exploring%20New%20Tech-blueviolet?style=for-the-badge&logo=rocket)
 ---
 <img src="koi/koi.gif" width="256" alt="My koi" />
----
+
 <!-- SECTION 2: ABOUT ME -->
+---
 ## About Me
 
 * 🚀 **What I Do:** I build software solutions focusing on  Web Development, Machine Learning.
