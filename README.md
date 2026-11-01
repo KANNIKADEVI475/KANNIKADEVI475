@@ -5,7 +5,7 @@
 > Love to Explore New Tech ![Tech Explorer](https://img.shields.io/badge/Mindset-Exploring%20New%20Tech-blueviolet?style=for-the-badge&logo=rocket)
 
 ---
-
+<img src="koi/koi.gif" width="256" alt="My koi" />
 <!-- SECTION 2: ABOUT ME -->
 ## 🧑‍💻 About Me
 
@@ -32,7 +32,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <!-- SECTION 4: CONNECT WITH ME -->
 ## 🌐 Connect With Me
 
